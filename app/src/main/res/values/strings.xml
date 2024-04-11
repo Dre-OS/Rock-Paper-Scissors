@@ -10,6 +10,22 @@
     <string name="start">Start!</string>
     <string name="reset">Reset</string>
     <string name="defaultscore">0</string>
+    <string name="mechanics_title">Mechanics</string>
+    <string name="mechanics_english">
+        The Game is Simple \n\n\n
+        - Play either Rock, Paper, Or Scissors against the opponent by pressing the corresponding buttons \n\n
+        - Press start to let the computer play its choice to play against you \n\n
+        - If you win, you will get the point. If the computer wins, it will get the point \n\n
+        - If you and the computer pick the same choice, no points will be awarded and the round is replayed \n\n
+        - First to 5 points wins the game \n
+    </string>
+    <string name="start_game">START</string>
+    <string name="read_mechs">INSTRUCTIONS</string>
+    <string name="quit_game">QUIT GAME</string>
+    <string name="main_manu">MAIN MENU</string>
+    <string name="auth">CREATED BY: HENDRE LEIGH O. SAGABAEN</string>
+
+
 
 
 </resources>
