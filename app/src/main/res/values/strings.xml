@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">CC10624RockPaperScissors</string>
+    <string name="title">Rock, Paper, Scissors!</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="VS">VS</string>
+    <string name="computer">Computer</string>
+    <string name="human">Human</string>
+    <string name="start">Start!</string>
+    <string name="reset">Reset</string>
+    <string name="defaultscore">0</string>
+
+
 </resources>
